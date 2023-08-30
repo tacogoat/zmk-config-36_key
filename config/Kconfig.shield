@@ -1,2 +1,0 @@
-config SHIELD_36_KEY
-    def_bool $(shields_list_contains, 36_key)
