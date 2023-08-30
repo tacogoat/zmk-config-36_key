@@ -1,6 +1,0 @@
-if SHIELD_36_KEY
-
-config ZMK_KEYBOARD_NAME
-    default "36_key"
-
-endif
